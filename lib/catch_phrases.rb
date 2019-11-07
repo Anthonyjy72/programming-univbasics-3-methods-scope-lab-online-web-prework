@@ -12,4 +12,8 @@ def link
   puts phrase
 end
 link
-def 
+def  fox
+  status = any_phrase
+  puts any_phrase
+end
+fox
