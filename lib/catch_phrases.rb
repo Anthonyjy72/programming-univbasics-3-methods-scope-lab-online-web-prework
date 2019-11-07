@@ -14,6 +14,6 @@ end
 link
 def  fox
   status = any_phrase
-  puts any_phrase
+  puts any_phrase(phrase)
 end
 fox
